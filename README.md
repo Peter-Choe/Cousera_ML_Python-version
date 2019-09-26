@@ -21,6 +21,7 @@ Assignment7_ K-Means Clustering and PCA : 100%
 Assignment8_ Anomaly Detection and Recommender Syste : 30%
 
 
+
 Acknowledgements
 
 Python versions of the programming assignments  were downloaded from this git repo:

@@ -2,7 +2,7 @@
 
 https://www.coursera.org/learn/machine-learning?
 
-Completion Rate of each assignment 
+Current completion Rates of each assignment 
 
 Assignment1_ Linear Regression : 100%
 

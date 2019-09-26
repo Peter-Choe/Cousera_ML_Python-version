@@ -1,1 +1,14 @@
-# ML_Andrew-ng_Python-version
+# ML_Coursera_Andrew-Ng_Assignment Python-version
+
+Completion Rate of each assignment 
+
+Assignment1_ Linear Regression : 100%
+Assignment2_ Logistic Regression : 85%
+Assignment3_ Neural Networks: Representation : 100%
+Assignment4_ Multi-class Classification and Neural Network : 100%
+Assignment5_ Neural Network Learning : 60%
+Assignment6_ Support Vector Machines : 100%
+Assignment7_ K-Means Clustering and PCA : 100%
+Assignment8_ Anomaly Detection and Recommender Syste : 30%
+
+
